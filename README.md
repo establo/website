@@ -1,3 +1,3 @@
-# github.lungtabot.io
+# Lungta
 
-Web Site
+The Web Site for the GitHub events on Telegram Channels
