@@ -1,3 +1,3 @@
-# Lungta
+# Establo Pro Services
 
-The Web Site for the GitHub events on Telegram Channels
+Establo is a building in which apps, especially WebExtensions, are kept.
